@@ -3,3 +3,5 @@
 #### Doctorado en Ciencias Económicas
 EEyN – UNSAM <br>
 Docente: Caravaggio, Leonardo A.<br>
+
+[Slides](https://docs.google.com/presentation/d/1xaDORB0pwZD5fPHoJbltGeQkeulEv1Ci5Mp9SAUozR0/edit?usp=sharing)
